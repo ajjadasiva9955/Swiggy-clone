@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ganesh"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ganesh"
+	}
+}
